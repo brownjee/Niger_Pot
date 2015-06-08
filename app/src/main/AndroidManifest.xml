@@ -44,6 +44,14 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="app.com.brownjee.nigerpot.MainActivity" />
         </activity>
+        <activity
+            android:name="app.com.brownjee.nigerpot.FeaturedFood"
+            android:label="@string/title_activity_featured_food"
+            android:parentActivityName="app.com.brownjee.nigerpot.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="app.com.brownjee.nigerpot.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

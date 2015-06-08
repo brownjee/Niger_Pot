@@ -51,6 +51,11 @@ public class MainActivity extends ActionBarActivity {
             startActivity(i);
             return true;
         }
+        if (id == R.id.action_featured_food) {
+            Intent i = new Intent(this, FeaturedFood.class);
+            startActivity(i);
+            return true;
+        }
 
         return super.onOptionsItemSelected(item);
     }

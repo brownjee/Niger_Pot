@@ -17,5 +17,14 @@
     <string name="title_activity_order__successful">Order_Successful</string>
     <string name="order_successful">Your order is successful \n Thank You </string>
     <string name="title_activity_view_order">ViewOrder</string>
+    <string name="snacks_drinks">Need snacks or drinks click to order</string>
+    <string name="title_activity_featured_food">FeaturedFood</string>
+    <string name="food">FEATURED FOOD</string>
+    <string name="ifobudia">Ifob Udia  NGN500</string>
+    <string name="sawa">Sawa  NGN800</string>
+    <string name="ukom">Ukom  NGN450</string>
+    <string name="akpakpa">Akpakpa  NGN700</string>
+
+
 
 </resources>

@@ -2,5 +2,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
     <item android:id="@+id/action_settings" android:title="@string/view_order"
-        android:orderInCategory="100" app:showAsAction="always" />
+        android:orderInCategory="100" app:showAsAction="never" />
+
+    <item android:id="@+id/action_featured_food" android:title="@string/food"
+        android:orderInCategory="100" app:showAsAction="never" />
 </menu>
